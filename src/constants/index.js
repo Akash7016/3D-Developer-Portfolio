@@ -173,7 +173,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "3D Swag Customization App",
+    name: "3D-T-shirt-Customization-App",
     description:
       "Interactive 3D web application that allows users to customize virtual swag in real-time using AI-generated logos, textures, and dynamic color themes. Built with React and Three.js, featuring smooth Framer Motion transitions and responsive 3D rendering.",
     tags: [
@@ -203,7 +203,8 @@ const projects = [
       },
     ],
     image: shop,
-    source_code_link: "https://github.com/",
+    source_code_link:
+      "https://github.com/Akash7016/3D-T-shirt-Customization-App",
   },
   {
     name: "Apple-Style 3D Product Experience",
@@ -236,7 +237,7 @@ const projects = [
       },
     ],
     image: apple,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Akash7016/Apple-3D-Product-Website",
   },
   {
     name: "Scroll-Based 3D Canvas Animation",
@@ -261,7 +262,8 @@ const projects = [
       },
     ],
     image: canva,
-    source_code_link: "https://github.com/",
+    source_code_link:
+      "https://github.com/Akash7016/Scroll-Based-3D-Canvas-Animation",
   },
 ];
 
